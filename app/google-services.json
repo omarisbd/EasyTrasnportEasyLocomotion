@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338788323471",
+    "firebase_url": "https://easytransporteasylocomotion.firebaseio.com",
+    "project_id": "easytransporteasylocomotion",
+    "storage_bucket": "easytransporteasylocomotion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338788323471:android:2762e18afdc8ab6afce0fa",
+        "android_client_info": {
+          "package_name": "com.project.easytrasnporteasylocomotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338788323471-uj8t3puo6e63usp8pssor1e6bdqihjop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA58HqbOlsYMgkvDqnpfAHPlG2TIS3Wb5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338788323471-uj8t3puo6e63usp8pssor1e6bdqihjop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
